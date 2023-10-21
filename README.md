@@ -4,7 +4,7 @@
 
 -🌱 I currently major in Mathematics-Physics Fundamental Science (Yingcai Honors Program of UESTC)
 
--💞️ I’m currently looking to collaborate on computer vision and deep leanring
+-💞️ I’m currently looking for phd oppotunities in machine learning and deep learning!
 
 -📫 How to reach me 2020080601007@std.uestc.edu.cn
 
