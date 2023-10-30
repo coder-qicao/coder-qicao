@@ -6,7 +6,7 @@
 
 -💞️ I’m currently looking for phd oppotunities in machine learning and deep learning!
 
--📫 How to reach me 2020080601007@std.uestc.edu.cn
+-📫 How to reach me 2020080601007@std.uestc.edu.cn, personal homepage: https://coder-qicao.github.io/
 
 <!---
 coder-qicao/coder-qicao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
